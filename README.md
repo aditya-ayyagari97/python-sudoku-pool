@@ -1,4 +1,4 @@
-# python_sudoku
+# python-sudoku
 ## These are a few repositories that I found useful. Hope you’ll like them
 >***For my personal favourites, look out for one of these :+1:*** 
 
